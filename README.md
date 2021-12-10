@@ -12,3 +12,5 @@ A website that offers fitness training services
 
 ## Contriution
 Made by George McAlpine
+
+### &copy2019 Run Buddy, Inc. 
